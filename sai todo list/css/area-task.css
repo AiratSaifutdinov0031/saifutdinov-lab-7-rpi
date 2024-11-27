@@ -1,4 +1,3 @@
-/* Task Board */
 .task-board {
     display: flex;
     flex-direction: column;
@@ -41,7 +40,6 @@
     border-radius: 10px;
   }
   
-  /* Column Headers */
   .backlog h3 {
     background: linear-gradient(135deg, #4caf50, #81c784);
   }
@@ -70,7 +68,6 @@
     }
   }
   
-  /* Loader Animation */
   .loader {
     width: 80px;
     height: 80px;
